@@ -1,0 +1,6 @@
+#preview {
+  width: 45vw;
+  height: 90vh;
+  border: 1px solid grey;
+  overflow: auto;
+}
